@@ -58,3 +58,9 @@ body {
 .profile {
   color: black;
 }
+.jumbotron {
+  background-color:	#ff3333;
+}
+.highlight {
+  background-color: #ffb3b3;
+}
