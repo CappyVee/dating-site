@@ -1,0 +1,37 @@
+/*
+font-family: 'Nosifer', cursive;
+font-family: 'Poppins', sans-serif;
+*/
+body {
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+.float-left {
+  position: absolute;
+  top:30%;
+  right:3%;
+  margin: 1em 2em;
+  width: 25%;
+}
+.header {
+  position: relative;
+}
+.header h1 {
+  font-family: 'Nosifer', cursive;
+  position: absolute;
+  top: 5%;
+  left: 20%;
+}
+.header img {
+  height: 50em;
+  width: 100%;
+  object-fit: fill;
+}
+.paragraph {
+  color: #fff;
+  text-align: justify;
+  font-size: 500;
+  padding: 2em;
+  position: absolute;
+  bottom: 5%;
+}
